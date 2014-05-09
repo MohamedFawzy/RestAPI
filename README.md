@@ -3,10 +3,8 @@ RestAPI
 
 Hi,
 rest api based on nodejs (expressjs) framework and mongodb
-
 1-install nodejs from nodejs.org
-2-install express 
-  cd RESTAPI/
+2-install express  cd RESTAPI/
   npm install
 3- install mongodb driver npm install mongodb  
 4- run server node server.js

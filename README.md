@@ -16,6 +16,7 @@ npm install
 5- test api using  browser http://localhost:3000/users/
 
 6- test api using curl
+=======================
 
 curl -i -X GET http://localhost:3000/users - fetchAll
 
